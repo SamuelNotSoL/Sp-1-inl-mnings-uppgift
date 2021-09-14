@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B42DC2D5-C8E5-B68F-3114-ABD5DC633E46}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MainMenu_StartGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Quest_Giver.cs" Line="41" Column="64" IsPinned="True" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="122" Column="24" />
+      <File FileName="Assets/Scripts/Enemy_SpiderMovement.cs" />
+      <File FileName="Assets/Scripts/Enemy_KillBox.cs" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" />
+      <File FileName="Assets/Scripts/Enemy_DestroyOnEarth.cs" />
+      <File FileName="Assets/Scripts/Enemy_SpiderHarmful.cs" />
+      <File FileName="Assets/Scripts/PlayerState.cs" Line="22" Column="9" />
+      <File FileName="Assets/Scripts/UI_PlayerHealthPoints.cs" />
+      <File FileName="Assets/Scripts/Pickup_Coin.cs" Line="22" Column="8" />
+      <File FileName="Assets/Scripts/UI_CoinValue.cs" />
+      <File FileName="Assets/Scripts/ElevatorMovement.cs" />
+      <File FileName="Assets/Scripts/ElevatorConstrain.cs" />
+      <File FileName="Assets/Scripts/PlayerKillzone.cs" />
+      <File FileName="Assets/Scripts/PlayerCheckPoint.cs" />
+      <File FileName="Assets/Scripts/Quest_DoorToNextLevel.cs" Line="15" Column="98" />
+      <File FileName="Assets/Scripts/MusicController.cs" Line="16" Column="28" />
+      <File FileName="Assets/Scripts/Pickup_Speed.cs" Line="37" Column="47" />
+      <File FileName="Assets/Scripts/StartMenu_StartGame.cs" Line="9" Column="35" />
+      <File FileName="Assets/Scripts/MainMenu_QuitGame.cs" Line="4" Column="35" />
+      <File FileName="Assets/Scripts/GameObserver.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/MainMenu_DisplayCoinsCollected.cs" Line="14" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sp1 Uppgift 1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MainMenu_StartGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="28a28fc5-f924-46d8-b6a3-005dcaa9e17b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

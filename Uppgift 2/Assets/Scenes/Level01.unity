@@ -1752,7 +1752,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 125b345235b7f40f5be90c7fdc6cf5c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  smoothspeed: 1
+  smoothspeed: 4
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0

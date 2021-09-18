@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B42DC2D5-C8E5-B68F-3114-ABD5DC633E46}</ProjectGuid>
+    <ProjectGuid>{A6FDFFD5-475E-90EC-993A-8C9E2251B6C7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,29 +53,29 @@
     <UnityVersion>2020.3.16f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Pickup_Speed.cs" />
     <Compile Include="Assets/Scripts/Quest_Player.cs" />
     <Compile Include="Assets/Scripts/Quest_Giver.cs" />
     <Compile Include="Assets/Scripts/Enemy_SpiderHarmful.cs" />
     <Compile Include="Assets/Scripts/Enemy_SpiderMovement.cs" />
     <Compile Include="Assets/Scripts/PlayerKillzone.cs" />
+    <Compile Include="Assets/Scripts/MainMenu_QuitGame.cs" />
     <Compile Include="Assets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/UI_CoinValue.cs" />
     <Compile Include="Assets/Scripts/Enemy_KillBox.cs" />
     <Compile Include="Assets/Scripts/Pickup_Coin.cs" />
+    <Compile Include="Assets/Scripts/MusicController.cs" />
     <Compile Include="Assets/Scripts/ElevatorConstrain.cs" />
     <Compile Include="Assets/Scripts/ElevatorMovement.cs" />
     <Compile Include="Assets/Scripts/UI_PlayerHealthPoints.cs" />
     <Compile Include="Assets/Scripts/CameraFollow.cs" />
+    <Compile Include="Assets/Scripts/GameObserver.cs" />
+    <Compile Include="Assets/Scripts/MainMenu_StartGame.cs" />
     <Compile Include="Assets/Scripts/PlayerState.cs" />
     <Compile Include="Assets/Scripts/Quest_DoorToNextLevel.cs" />
+    <Compile Include="Assets/Scripts/MainMenu_DisplayCoinsCollected.cs" />
     <Compile Include="Assets/Scripts/PlayerCheckPoint.cs" />
     <Compile Include="Assets/Scripts/Enemy_DestroyOnEarth.cs" />
-    <Compile Include="Assets/Scripts/MusicController.cs" />
-    <Compile Include="Assets/Scripts/Pickup_Speed.cs" />
-    <Compile Include="Assets/Scripts/MainMenu_StartGame.cs" />
-    <Compile Include="Assets/Scripts/MainMenu_QuitGame.cs" />
-    <Compile Include="Assets/Scripts/GameObserver.cs" />
-    <Compile Include="Assets/Scripts/MainMenu_DisplayCoinsCollected.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Sprites/Kenney.nl/items_spritesheet.xml" />

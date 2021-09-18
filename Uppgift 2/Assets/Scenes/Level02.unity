@@ -2330,7 +2330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 125b345235b7f40f5be90c7fdc6cf5c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  smoothspeed: 1
+  smoothspeed: 4
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -27870,7 +27870,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c33981275391142448b413c3bd8bafb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: 0
+  levelToLoad: 3
 --- !u!4 &2099127247
 Transform:
   m_ObjectHideFlags: 0

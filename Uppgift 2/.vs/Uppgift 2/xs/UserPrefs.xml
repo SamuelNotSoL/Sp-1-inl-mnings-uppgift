@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A6FDFFD5-475E-90EC-993A-8C9E2251B6C7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy_KillBox.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy_KillBox.cs" Line="23" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Uppgift 2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b52be14b-291d-4bce-8f90-b9fc3039d597" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

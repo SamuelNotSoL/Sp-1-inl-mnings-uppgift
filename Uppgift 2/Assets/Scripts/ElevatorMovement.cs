@@ -4,10 +4,6 @@ using UnityEngine;
 
 public class ElevatorMovement : MonoBehaviour {
 
-    [SerializeField] private GameObject point1;
-    [SerializeField] private GameObject point2;
-    [SerializeField] private GameObject point3;
-
     [SerializeField] private GameObject nextTarget;
 
     [SerializeField] private float speed = 2f;
